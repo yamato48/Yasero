@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3f1b37be2f77a441834837d58601f77
+timeCreated: 1494421455
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyBPrefub: {instanceID: 0}
+  - enemyAPrefub: {instanceID: 0}
+  - itemGenerator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
